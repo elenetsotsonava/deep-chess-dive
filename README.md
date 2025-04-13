@@ -40,7 +40,7 @@ This project explores patterns and insights in a large dataset of chess games, f
 ## 📌 How to Use
 
 1. Clone or download this repository.
-2. Open the provided Colab notebook: [Chess Analysis Notebook](https://colab.research.google.com/drive/your_colab_link_here)  
+2. Open the provided Colab notebook: [Chess Analysis Notebook](https://colab.research.google.com/drive/1CtNb7kBlaZWFYKjPBvmQNQvseVXBCv7E?usp=sharing)  
 3. Upload the dataset or link it from Kaggle.
 4. Run all cells to reproduce the visualizations and insights.
 
